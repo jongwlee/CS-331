@@ -1,0 +1,39 @@
+------------Iterative Algorithm------------
+Size:    2 | Execution Time:     0 ms
+Size:    4 | Execution Time:     0 ms
+Size:    8 | Execution Time:     0 ms
+Size:   16 | Execution Time:     1 ms
+Size:   32 | Execution Time:     1 ms
+Size:   64 | Execution Time:     2 ms
+Size:  128 | Execution Time:     9 ms
+Size:  256 | Execution Time:     1219 ms
+Size:  512 | Execution Time:     1560 ms
+Size: 1024 | Execution Time:     15320 ms
+
+
+
+------------Divide and Conquer Algorithm------------
+Size:    2 | Execution Time:    0 ms
+Size:    4 | Execution Time:    0 ms
+Size:    8 | Execution Time:    1 ms
+Size:   16 | Execution Time:    7 ms
+Size:   32 | Execution Time:    53 ms
+Size:   64 | Execution Time:    432 ms
+Size:  128 | Execution Time:    1786 ms
+Size:  256 | Execution Time:    14661 ms
+Size:  512 | Execution Time:    123456 ms
+Size: 1024 | Execution Time:    985235 ms
+
+
+
+------------Strassen's Algorithm------------
+Size:    2 | Execution Time:    0  ms
+Size:    4 | Execution Time:    0  ms
+Size:    8 | Execution Time:    2  ms
+Size:   16 | Execution Time:    6  ms
+Size:   32 | Execution Time:    61 ms
+Size:   64 | Execution Time:    196 ms
+Size:  128 | Execution Time:    984 ms
+Size:  256 | Execution Time:    1025 ms
+Size:  512 | Execution Time:    1241 ms
+Size: 1024 | Execution Time:    6048 ms
